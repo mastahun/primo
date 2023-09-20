@@ -1,0 +1,15 @@
+.test_elem {
+    background-color: aqua;
+}
+
+#chess-board-parent {
+    background-color: gold;
+}
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}
