@@ -2,9 +2,7 @@
     background-color: aqua;
 }
 
-#chess-board-parent {
-    background-color: gold;
-}
+
 
 .black {
     background-color: black;
@@ -14,6 +12,3 @@
     background-color: white;
 }
 
-.number-column {
-    background-color: blueviolet;
-}
